@@ -1,9 +1,6 @@
 Hi 👋 My name is Felix Hutnyk
 =============================
 
-Network Technology Student
---------------------------
-
 * 🌍  I'm based in Vancouver
 * 🖥️  See my portfolio at [My Website](http://felixhutnyk.com)
 * ✉️  You can contact me at [felix.hutnyk@gmail.com](mailto:felix.hutnyk@gmail.com)
