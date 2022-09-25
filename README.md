@@ -1,7 +1,7 @@
 Hi 👋 My name is Felix Hutnyk
 =============================
 
-* 🌍  I'm based in Vancouver
+* 🌍  I'm based in Vancouver / Ottawa
 * 🖥️  See my portfolio at [My Website](http://felixhutnyk.com)
 * ✉️  You can contact me at [felix.hutnyk@gmail.com](mailto:felix.hutnyk@gmail.com)
 
