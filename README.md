@@ -19,3 +19,7 @@ Hi 👋 My name is Felix Hutnyk
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/CodingMachine#0443" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/FelixHutnyk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/felixhutnyk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+<br><br>
+
+[![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelixHutnyk)](https://github.com/anuraghazra/github-readme-stats)
