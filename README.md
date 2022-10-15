@@ -22,4 +22,4 @@
 
 <br><br>
 
-[![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelixHutnyk)](https://github.com/anuraghazra/github-readme-stats)
+![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=felixhutnyk&count_private=true)
