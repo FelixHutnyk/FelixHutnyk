@@ -1,9 +1,10 @@
 Hi 👋 My name is Felix Hutnyk
 =============================
 
+* ‍🎓 Currently, I'm a second year student at Carleton University / Algonquin College studying Network Technology.
 * 🌍  I'm based in Vancouver / Ottawa
-* 🖥️  See my portfolio at [My Website](http://felixhutnyk.com)
-* ✉️  You can contact me at [felix.hutnyk@gmail.com](mailto:felix.hutnyk@gmail.com)
+* 🖥️  My Website [felixhutnyk.com](http://felixhutnyk.com)
+* ✉️  You can contact me via [Email](mailto:felix.hutnyk@gmail.com) or [LinkedIn](https://linkedin.com/in/FelixHutnyk)
 
 ### Skills
 
