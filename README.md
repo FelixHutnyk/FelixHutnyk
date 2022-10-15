@@ -1,4 +1,4 @@
-Hi 👋 My name is Felix Hutnyk
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+My+name+is+Felix+Hutnyk)](https://git.io/typing-svg)
 =============================
 
 * ‍🎓 Currently, I'm a second year student at Carleton University / Algonquin College studying Network Technology.
