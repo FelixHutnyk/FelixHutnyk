@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+My+name+is+Felix+Hutnyk!)](https://git.io/typing-svg)
 =============================
 
-* ‍🎓 Currently, I'm a second year student at [Carleton University](https://carleton.ca) / [Algonquin College](https://algonquincollege.com) studying Network Technology.
-* 🌍  I'm based in Vancouver / Ottawa
+* ‍🎓 Currently, I'm a third year student at [Carleton University](https://carleton.ca) / [Algonquin College](https://algonquincollege.com) studying Network Technology.
+* 🌍  I'm based in Ottawa
 * 🖥️  You can view my portfolio and website at [felixhutnyk.com](http://felixhutnyk.com)
 * ✉️  You can contact me via [Email](mailto:felix.hutnyk@gmail.com) or [LinkedIn](https://linkedin.com/in/FelixHutnyk)
 
